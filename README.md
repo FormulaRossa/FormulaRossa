@@ -1,5 +1,6 @@
 # :wave:
 
+[![HitCount](https://hits.dwyl.com/FormulaRossa/FormulaRossa.svg?style=flat-square&show=unique)](http://hits.dwyl.com/FormulaRossa/FormulaRossa)
 <details open>
 <summary>Stats</summary>
 
