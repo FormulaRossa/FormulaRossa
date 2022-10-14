@@ -1,4 +1,14 @@
 # :wave:
+
+<details open>
+<summary>Stats</summary>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FormulaRossa&theme=default)
+</details>
+
+<details open>
+<summary>Streak</summary>
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=FormulaRossa&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 </details>
