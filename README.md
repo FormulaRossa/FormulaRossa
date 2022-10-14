@@ -3,7 +3,7 @@
 <details open>
 <summary>Stats</summary>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FormulaRossa&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FormulaRossa&theme=github_dark)
 </details>
 
 <details open>
