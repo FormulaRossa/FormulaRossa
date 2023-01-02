@@ -17,3 +17,8 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=FormulaRossa&rank=-?&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 </details>
+<details open>
+<summary>Links</summary>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lean-schuler-08465721b/)
+</details>
